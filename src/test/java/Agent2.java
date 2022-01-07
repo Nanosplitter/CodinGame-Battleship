@@ -7,7 +7,7 @@ public class Agent2 {
 
         while (true) {
             String input = scanner.nextLine();
-            System.out.println("TALK");
+            System.out.println("my output");
         }
     }
 }
